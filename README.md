@@ -1,4 +1,4 @@
-# Network Mastery with AWS VPC mini project.
+# Network Mastery with AWS Virtual Private Cloud (Subnets, Gateways, Routing Table, VPC Peering).
 
 We will explore the core concept of Amazon Web Services (AWS), focusing specifically on Virtual Private Clouds (VPCs). We will focus on understanding the fundamental components of VPC infrastructure, including subnets, gateways, and routing table.
 
@@ -17,7 +17,7 @@ We will explore the core concept of Amazon Web Services (AWS), focusing specific
 
 This knowledge will enable you to design and implement secure and efficient network architectures in the cloud.
 
-### *Learning Objective:
+### *Learning Objective:*
 
 - Gained knowledge about VPC and its essential components, such as subnet, gateways, and route tables.
 
