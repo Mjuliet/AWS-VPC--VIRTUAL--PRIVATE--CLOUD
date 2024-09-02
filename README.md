@@ -31,7 +31,7 @@ This knowledge will enable you to design and implement secure and efficient netw
 
 ###  VPC, Subnets, Internet Gateway and NAT Gateway.
 
-Let's uses a flight scenario to explain these concepts in a simple and relatable way.
+Let's use a flight scenario to explain these concepts in a simple and relatable way.
 
 VPC (Virtual Private Cloud)
 
